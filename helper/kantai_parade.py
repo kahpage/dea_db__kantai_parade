@@ -221,7 +221,7 @@ if __name__ == "__main__":
         #        [Source("", (RT.Reliable, OT.Official))]),
     ]
     links = [
-        "https://ttc.ninja-web.net/kantai-parade/",
+        "https://ttc.ninja-web.net/kantai-parade/", "https://x.com/kantai_parade"
     ]
 
     event_group = EventGroup(
